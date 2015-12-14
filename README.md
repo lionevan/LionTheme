@@ -1,0 +1,1 @@
+ Based on Lion Theme theme. Uses `"addModeClass" = true;` to make Brackets/CodeMirror add classes for the current language to allow fine grain styling. (e.g. different colors for html, css/less/sass, js/coffee etc)
